@@ -4,7 +4,7 @@
 
 ## Find Me Elsewhere! 🛸:
 - Connect with me on <a href="https://www.linkedin.com/in/amadou-n-gom-252611215/">LinkedIn</a>!
-- Check out on of my <a href="https://couponestimator.herokuapp.com/">Projects</a>!
+- Check out one of my <a href="https://couponestimator.herokuapp.com/">Projects</a>!
 
 <!--
 **Amadou23/Amadou23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
