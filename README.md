@@ -1,6 +1,6 @@
 ### Hello, I'm Amadou N'Gom 👋👨‍💻
 
- I'm a data scientist with a passion for building better products using data-driven solutions. I'm fascinated by the potential that big data offers us and aim to contribute greatly to the world of tech. I thoroughly enjoy working with highly driven thinkers to achieve common goals, and possess a strong affinity for people. Probably querying a database right now... Or playing with Pandas 🐼.
+ I'm a data scientist with a passion for building better products by finding data-driven solutions. I'm fascinated by the potential that big data offers us and aim to contribute greatly to the world of tech. I thoroughly enjoy working with highly driven thinkers to achieve common goals, and possess a strong affinity for people. Probably querying a database right now... Or playing with Pandas 🐼.
 
 ## Find Me Elsewhere! 🛸:
 - Connect with me on <a href="https://www.linkedin.com/in/amadou-n-gom-252611215/">LinkedIn</a>!
