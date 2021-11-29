@@ -4,6 +4,7 @@
 
 ## Find Me Elsewhere! 🛸:
 - Connect with me on <a href="https://www.linkedin.com/in/amadou-n-gom-252611215/">LinkedIn</a>!
+- Find me on <a href="https://twitter.com/Amadou4234">Twitter</a>!
 - Check out one of my <a href="https://couponestimator.herokuapp.com/">Projects</a>!
 
 <!--
